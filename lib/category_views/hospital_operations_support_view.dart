@@ -76,7 +76,7 @@ class _HospitalOperationsSupportViewState
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 ),
                 SizedBox(height: 16),
-                Text('Ulllolll', style: TextStyle(fontSize: 14)),
+                Text('put', style: TextStyle(fontSize: 14)),
               ],
             ),
           ),
@@ -159,7 +159,7 @@ class _HospitalOperationsSupportViewState
               SizedBox(width: 12),
               Expanded(
                 child: Text(
-                  'View PDF POTAS',
+                  'View PDF put',
                   style: TextStyle(fontSize: 14, fontWeight: FontWeight.w500),
                 ),
               ),

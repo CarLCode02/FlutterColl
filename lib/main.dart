@@ -13,7 +13,8 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'BICOL REGION GENERAL HOSPITAL AND GERIATRIC MEDICAL CENTER.',
+      title: '1BICOL REGION GENERAL HOSPITAL AND GERIATRIC MEDICAL CENTER.',
+      
       theme: ThemeData(primarySwatch: Colors.blue),
       home: const HomePage(),
     );

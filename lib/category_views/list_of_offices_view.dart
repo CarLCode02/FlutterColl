@@ -36,7 +36,7 @@ class _ListOfOfficesViewState extends State<ListOfOfficesView> {
           const Padding(
             padding: EdgeInsets.symmetric(horizontal: 16),
             child: Text(
-              'Category: List of Offices',
+              'Category: List of Office',
               style: TextStyle(fontSize: 13, color: Colors.grey),
             ),
           ),

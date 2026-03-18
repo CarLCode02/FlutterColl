@@ -38,7 +38,7 @@ class _HomePageState extends State<HomePage> {
             const SizedBox(width: 12),
             const Expanded(
               child: Text(
-                'BICOL REGION GENERAL HOSPITAL AND GERIATRIC MEDICAL CENTER',
+                'BICOL REGION GENERAL HOSPITAL AND GERIATRIC MEDICAL CENTER.',
                 style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
               ),
             ),

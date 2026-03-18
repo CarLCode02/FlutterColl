@@ -27,9 +27,9 @@ class _ListOfOfficesViewState extends State<ListOfOfficesView> {
         children: [
           _searchHeader(),
           const Padding(
-            padding: EdgeInsets.fromLTRB(16, 12, 16, 4),
+            padding: EdgeInsets.fromLTRB(16, 10, 16, 4),
             child: Text(
-              'Services',
+              'Service',
               style: TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
             ),
           ),

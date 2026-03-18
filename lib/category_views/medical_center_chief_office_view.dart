@@ -66,7 +66,7 @@ class _MedicalCenterChiefOfficeViewState
               crossAxisAlignment: CrossAxisAlignment.start,
               children: const [
                 Text(
-                  'View',
+                  'Handling and Resolution of Complaints filed with the PACD, 8888, PCC, and CCB and direct filing with the legal unit',
                   style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
                 ),
                 SizedBox(height: 16),
@@ -153,7 +153,7 @@ class _MedicalCenterChiefOfficeViewState
               SizedBox(width: 12),
               Expanded(
                 child: Text(
-                  'View PDF put',
+                  'Handling and Resolution of Complaints filed with the PACD, 8888, PCC, and CCB and direct filing with the legal unit',
                   style: TextStyle(fontSize: 14, fontWeight: FontWeight.w500),
                 ),
               ),
